@@ -1,4 +1,3 @@
-this is my code for stock trading platform
 import java.util.*;
 
 class Stock {
