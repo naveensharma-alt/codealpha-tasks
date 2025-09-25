@@ -1,4 +1,3 @@
-this is my code for student grade tracker
 import java.util.ArrayList;
 import java.util.Scanner;
 
